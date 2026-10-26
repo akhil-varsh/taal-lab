@@ -1,0 +1,3 @@
+# The studio, RNN, audio renderer, MIDI writer, and tests use Python's standard library.
+# No pip installation is required. Optional coursework: requirements-keras.txt.
+Flask>=3.0,<4

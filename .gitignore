@@ -1,0 +1,11 @@
+venv/
+.venv/
+.env
+.env.*
+.vercel/
+__pycache__/
+**/__pycache__/
+*.pyc
+artifacts/*.keras
+artifacts/experiments/
+exports/
