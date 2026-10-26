@@ -307,7 +307,7 @@ The default model is a small Elman-style recurrent neural network:
 15 input features
         |
         v
-16 tanh hidden neurons
+16 tanh hidden neurons, visualized on the landing page as four parallel vertical columns
         |
         v
 10 output bol scores
@@ -1010,4 +1010,3 @@ POST /api/train
 Local: training enabled
 Vercel: training disabled; use the committed checkpoint
 ```
-
